@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **more open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://yashbhalgat.netlify.app/](https://yashbhalgat.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yashnbhalgat.com](https://yashnbhalgat.com)
 
 - 💬 Ask me about **C++, Javascript, React JS, Next JS, Typescript**
 
