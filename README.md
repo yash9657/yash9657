@@ -1,31 +1,67 @@
-<h1 align="center">Hi 👋, I'm Yash Bhalgat</h1>
-<h3 align="center">MS CS student @ University of California Riverside</h3>
+<h1 align="center">Hi, I'm Yash Bhalgat</h1>
+<h3 align="center">AI & full-stack software engineer in Los Angeles</h3>
+<p align="center">I build thoughtful interfaces and the systems behind them: creative tools, AI pipelines, and dependable backends.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash9657&label=Profile%20views&color=0e75b6&style=flat" alt="yash9657" /> </p>
-
-- 🔭 I’m currently working on [Spatial-Keyword Queries](https://dl.acm.org/doi/10.1145/3557915.3560975)
-
-- 🌱 I’m currently learning **more about Advanced Operating Systems under distinguished Prof. Cong Liu**
-
-- 👯 I’m looking to collaborate on **more open-source projects**
-
-- 👨‍💻 All of my projects are available at [https://yashnbhalgat.com](https://yashnbhalgat.com)
-
-- 💬 Ask me about **C++, Javascript, React JS, Next JS, Typescript**
-
-- 📫 How to reach me **ybhal001@ucr.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14iDokHEg1b78mbPwSRlaoRF15g8c1GDu/view?usp=sharing](https://drive.google.com/file/d/14iDokHEg1b78mbPwSRlaoRF15g8c1GDu/view?usp=sharing)
-
-- ⚡ Fun fact **I can speak fluent German**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/yash9657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash9657" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yash-bhalgat-8a0778197/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-bhalgat" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://yashbhalgat.com"><img src="https://img.shields.io/badge/portfolio-yashbhalgat.com-0e75b6?style=flat" alt="Portfolio" /></a>
+  <a href="https://yashbhalgat.com/assets/Yash_Bhalgat_Resume.pdf"><img src="https://img.shields.io/badge/résumé-PDF-555?style=flat" alt="Résumé" /></a>
+  <a href="https://www.linkedin.com/in/yashnbhalgat/"><img src="https://img.shields.io/badge/LinkedIn-yashnbhalgat-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yashbhalgat9657@gmail.com"><img src="https://img.shields.io/badge/email-yashbhalgat9657%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Now
+
+**Founding Engineer, Stealth Startup** · Dec 2025 – present
+AI-assisted film post-production: captioning, secure video delivery, and rendering.
+
+- Multi-pass GPU captioning pipeline (vocal isolation, WhisperX, forced alignment, diarization, sound-event detection, LLM authoring with an automated judge) that cut feature-film captioning from a multi-day vendor cycle to one automated run.
+- Deterministic caption QC engine with auto-fixers over 12 delivery formats (SCC, TTML/IMSC, iTT, EBU-TT-D, SRT, WebVTT), each file verified against a real decoder.
+- Secure pre-release playback: authenticated streaming gateway, Widevine/FairPlay CMAF, per-viewer forensic watermarking, and a parallel keyframe-aligned transcode for adaptive streaming.
+- End-credits render pipeline to broadcast-spec MP4, ProRes and DPX; led SOC 2 readiness to Type I.
+
+## Before
+
+**Founding Engineer, SmartPractice AI** · Jun – Dec 2025
+Ambient clinical documentation, medical coding, and EHR integration.
+
+- Encounter audio → streaming ASR with medical-lexicon biasing → speaker roles → LLM-structured notes where every assertion cites its transcript span.
+- Note-format engine that compiles a clinician's own format into a typed extraction schema (SOAP, APSO, H&P, DAP/BIRP, PT/OT on one engine).
+- Evidence-backed ICD-10-CM / CPT / HCPCS coding with E/M levels, NCCI bundling and HCC recapture, exported as a superbill.
+- SMART on FHIR integration (EHR, standalone and backend-services launch, FHIRcast) plus an MV3 Chrome extension as a write layer where EHRs expose no write API.
+- Engineering controls for HIPAA and SOC 2 Type I and Type II.
+
+## Things I've built
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Inkcast**](https://inkcast.video) | A topic or document becomes a narrated, hand-drawn vector lesson. A seven-stage compiler syncs drawings to measured speech and renders with Chromium and FFmpeg in stateless containers. | TypeScript, Next.js, Kokoro/ONNX, Whisper, Fireworks |
+| [**Tallyweb**](https://tallyweb.world) | Keyboard-first accounting and ERP with double-entry constraints, hash-chained vouchers and FORCE RLS in Postgres. Go core on ARM64 Lambda behind CloudFront, Aurora Serverless v2. | Go, React, XState, Terraform, AWS |
+| [**Finfloww**](https://finfloww.xyz) | Reconciliation, invoice-to-PO review and variance analysis with deterministic calculations, human approval gates, and sandboxed (QuickJS) investigations that cite source rows. | Next.js, TypeScript, Supabase |
+| [**DentaBill AI**](https://usedentabill.xyz) | Dental claim follow-ups: imports, queued payer calls, live transcripts and structured next actions. Fastify API and SQS workers on Lambda with Aurora and PHI audit trails. | Next.js, Fastify, Prisma, Clerk, AWS |
+| **Cursor for Resolve** | An agent inside the edit bay: video matting, promptable segmentation and an on-device vision-language model driving DaVinci Resolve. No footage leaves the machine. | Python, on-device VLMs |
+
+More detail, demos and architecture write-ups on [yashbhalgat.com](https://yashbhalgat.com).
+
+## Toolbox
+
+**Languages:** TypeScript, Python, Go, SQL, C++
+**Backend & data:** Node.js, Fastify, FastAPI, Django, PostgreSQL (RLS), Redis, MongoDB, Supabase, event-driven pipelines
+**Frontend:** React, Next.js, XState, Redux, Tailwind CSS
+**Cloud & DevOps:** AWS (Lambda, SQS, Aurora, CloudFront, EventBridge), GCP (Cloud Run, Vertex AI), Docker, Kubernetes, Terraform, GitHub Actions
+**AI:** LLM orchestration (Claude, Gemini, OpenAI), agentic tool use, RAG, MCP, evaluation harnesses
+**Healthcare:** HL7 FHIR R4, SMART on FHIR, ICD-10-CM / CPT, HIPAA, SOC 2
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,go,postgres,react,nextjs,nodejs,tailwind,aws,gcp,docker,kubernetes,terraform,githubactions" alt="Tech stack" />
+</p>
+
+## Education
+
+- **M.S. Computer Science**, University of California, Riverside · 2023 – 2025 · GPA 3.76/4 · Graduate Teaching Assistant
+- **B.E. Computer Engineering**, Pune Institute of Computer Technology · 2019 – 2023 · GPA 9.2/10
+
+## Research
+
+- [Spatial-keyword queries](https://dl.acm.org/doi/10.1145/3557915.3560975), ACM SIGSPATIAL
+
+<sub>Fun fact: I speak fluent German.</sub>
